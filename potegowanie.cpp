@@ -19,3 +19,7 @@ int main()
     
     system("pause");
 }
+
+
+dopisana linijka dnia 1.03.2021
+	
