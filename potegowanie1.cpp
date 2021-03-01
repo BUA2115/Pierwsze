@@ -19,3 +19,5 @@ int main()
     
     system("pause");
 }
+
+dodana linijka
